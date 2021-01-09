@@ -1,6 +1,0 @@
-/Users/zhanggj/Downloads/CLionProjects/c-programming-language/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/zhanggj/Downloads/CLionProjects/c-programming-language/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/zhanggj/Downloads/CLionProjects/c-programming-language/cmake-build-debug/CMakeFiles/2.dir
-/Users/zhanggj/Downloads/CLionProjects/c-programming-language/cmake-build-debug/CMakeFiles/temperature.dir
-/Users/zhanggj/Downloads/CLionProjects/c-programming-language/cmake-build-debug/CMakeFiles/temperature_2.dir
-/Users/zhanggj/Downloads/CLionProjects/c-programming-language/cmake-build-debug/CMakeFiles/c_programming_language.dir
