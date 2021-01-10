@@ -1,7 +1,8 @@
 /**
  * @Author ZhangGJ
- * @Date 2021/01/09 23:48
+ * @Date 2021/01/10 09:36
  */
+
 #include <stdio.h>
 
 int main() {
@@ -14,6 +15,7 @@ int main() {
     step = 20;
 
     fahr = lower;
+    printf("Fahr Celsius\n");
     while (fahr <= upper) {
         celsius = (5.0f / 9.0) * (fahr - 32.0);
         printf("%3.0f %6.1f\n", fahr, celsius);
