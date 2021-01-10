@@ -28,3 +28,21 @@ add_executable(text_copy_2 basis/text_copy_2.c)
 add_executable(e6 basis/exercise/e6.c)
 
 add_executable(e7 basis/exercise/e7.c)
+
+add_executable(count basis/count.c)
+
+add_executable(count_2 basis/count_2.c)
+
+add_executable(row_count basis/row_count.c)
+
+add_executable(e8 basis/exercise/e8.c)
+
+add_executable(e8_2 basis/exercise/e8_2.c)
+
+add_executable(e9 basis/exercise/e9.c)
+
+add_executable(c10 basis/exercise/e10.c)
+
+add_executable(word_count basis/word_count.c)
+
+add_executable(e12 basis/exercise/e12.c)
