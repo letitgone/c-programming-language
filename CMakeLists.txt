@@ -46,3 +46,11 @@ add_executable(c10 basis/exercise/e10.c)
 add_executable(word_count basis/word_count.c)
 
 add_executable(e12 basis/exercise/e12.c)
+
+add_executable(array basis/array.c)
+
+add_executable(e13 basis/exercise/e13.c)
+
+add_executable(function basis/function.c)
+
+add_executable(e15 basis/exercise/e15.c)
