@@ -56,3 +56,5 @@ add_executable(function basis/function.c)
 add_executable(e15 basis/exercise/e15.c)
 
 add_executable(max_length basis/max_length.c)
+
+add_executable(max_length_2 basis/max_length_2.c)
