@@ -58,3 +58,13 @@ add_executable(e15 basis/exercise/e15.c)
 add_executable(max_length basis/max_length.c)
 
 add_executable(max_length_2 basis/max_length_2.c)
+
+add_executable(binary_search control/binary_search.c)
+
+add_executable(atoi control/atoi.c)
+
+add_executable(shell_sort control/shell_sort.c)
+
+add_executable(reverse control/reverse.c)
+
+add_executable(string_ function/string_.c)
